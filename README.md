@@ -1,8 +1,6 @@
 <h1 align="center">HEY👋, I'm Sumit Singh</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sugabubba7" alt="sugabubba7" /></a> </p>
-
 - 🌱 I’m currently learning **Data Analytics (R, Python)**
 
 - 💬 Ask me about **React.js, GitHub, Python**
